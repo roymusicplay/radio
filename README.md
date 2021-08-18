@@ -9,14 +9,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV3?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV3)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV3)
-[![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/AsmSafone)
-[![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/safothebot)
+[![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/DOSTI_GROUP_1234)
+[![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/ABOUT_ABHINAS)
 
 
 An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
+Radio in [ABHINAS](https://t.me/abhinasroy) Channel & Music in [channel](https://t.me/ABOUT_ABHINAS) Group.
 
 ## Special Features
 
